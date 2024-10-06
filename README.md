@@ -1,15 +1,20 @@
-# Tarea-1
-* Universidad de La Frontera
-* Ingeniería Civil Electrónica, Ingeniería Civil Telemática
+# Tarea 1 - Estructura de Datos y Algoritmos (C)
 
-* IIE-344 ESTRUCTURA DE DATOS Y ALGORITMOS
+**Descripción:**
 
-* Tarea 1
+Este proyecto implementa una pila utilizando un arreglo.
 
-* Autor 1: Sofia Candia
-* Autor 2: Dana Neveu
+**Compilación:**
 
-* Fecha: 07/10/24
+1. Clonar el repositorio: `git clone https://github.com/tu-usuario/tarea1.git`
+2. Navegar al directorio del proyecto: `cd tarea1`
+3. Compilar: `gcc pila.c -o pila`
 
-* Descripción general del programa:
+**Ejecución:**
 
+Ejecutar el programa compilado: `./pila`
+
+**Autores:**
+
+* Sofia Candia (s.candia07@ufromail.cl)
+* Dana Neveu (mail)
