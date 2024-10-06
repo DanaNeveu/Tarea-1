@@ -1,5 +1,8 @@
 # Tarea 1 - Estructura de Datos y Algoritmos (C)
 
+/ Universidad de La Frontera
+/ Ingeniería Civil Electrónica/Telemática
+
 **Descripción:**
 
 Este proyecto implementa una pila utilizando un arreglo.
