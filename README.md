@@ -20,4 +20,4 @@ Ejecutar el programa compilado: `./pila`
 **Autores:**
 
 * Sofia Candia (s.candia07@ufromail.cl / Ingeniería Civil Telemática)
-* Dana Neveu (mail / Ingeniería Civil Electrónica)
+* Dana Neveu (d.neveu01@ufromail.cl / Ingeniería Civil Electrónica)
